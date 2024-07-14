@@ -1,0 +1,7 @@
+{
+    "description": "Unity plugin for algorithm.",
+    "displayName": "Algorithm",
+    "name": "com.mgs.algorithm",
+    "unity": "2021.3",
+    "version": "1.0.0"
+}
