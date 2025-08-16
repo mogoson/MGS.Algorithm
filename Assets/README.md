@@ -6,15 +6,8 @@
 
 - Unity plugin for frequently-used algorithm.
 
-## Platform
-
-- Windows
-- Android
-- IOS
-
 ## Environment
 
-- .Net Framework 3.5 or above.
 - Unity 2021.3 or above.
 
 ## Implementation
