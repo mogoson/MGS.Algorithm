@@ -6,10 +6,6 @@
 
 - Unity plugin for frequently-used algorithm.
 
-## Environment
-
-- Unity 2021.3 or above.
-
 ## Implementation
 
 ### Collector
