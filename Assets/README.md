@@ -6,7 +6,7 @@
 
 - Unity plugin for frequently-used algorithm.
 
-## Implementation
+## Ability
 
 ### Collector
 
