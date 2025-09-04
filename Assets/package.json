@@ -1,7 +1,17 @@
 {
-    "description": "Unity plugin for algorithm.",
-    "displayName": "Algorithm",
     "name": "com.mgs.algorithm",
+    "version": "1.0.0",
+    "displayName": "Algorithm",
+    "description": "Unity plugin for algorithm.",
     "unity": "2021.3",
-    "version": "1.0.0"
+    "keywords": [
+        "algorithm",
+        "Palindrome",
+        "Collection"
+    ],
+    "author": {
+        "name": "Mogoson",
+        "email": "mogoson@outlook.com",
+        "url": "https://www.mogoson.com"
+    }
 }
