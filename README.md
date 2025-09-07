@@ -20,6 +20,14 @@
   - Collect water base the pillars.
   - Collect waters base the pillars.
 
+## Install
+
+- Unity --> Window --> Package Manager --> "+" --> Add package from git URL...
+
+  ```text
+  https://github.com/mogoson/MGS.Algorithm.git?path=/Assets
+  ```
+
 ------
 
 Copyright © 2025 Mogoson.	mogoson@outlook.com
